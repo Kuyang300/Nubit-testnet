@@ -1,0 +1,2 @@
+# Nubit-testnet
+Nubit testnet
